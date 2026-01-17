@@ -76,4 +76,4 @@ This project was completed as part of building a QA portfolio to demonstrate man
 
 **Application Tested:** Swag Labs (https://www.saucedemo.com)  
 **Test Date:**10 January 2026  
-**Tester:** [Oshini Poornima]
+**Tester:** Oshini Poornima
